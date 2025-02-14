@@ -12,5 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/mystic6113" width="600" height="300"/></a>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=XsQuare01&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
